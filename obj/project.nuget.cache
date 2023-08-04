@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cE5JjKnalycSTtPV5abQ9yE18jFnr4mS+M/w7GJCW/HXStheJBuBBaVZagyZjsMgDb7fXJYQStVM4BDmRPrtaw==",
+  "success": true,
+  "projectFilePath": "g:\\Cheat\\Cheat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alin0\\.nuget\\packages\\system.codedom\\8.0.0-preview.6.23329.7\\system.codedom.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Alin0\\.nuget\\packages\\system.management\\8.0.0-preview.6.23329.7\\system.management.8.0.0-preview.6.23329.7.nupkg.sha512"
+  ],
+  "logs": []
+}
