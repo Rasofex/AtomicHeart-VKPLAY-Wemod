@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cheat/1.0.0": {
+        "dependencies": {
+          "System.Management": "8.0.0-preview.6.23329.7"
+        },
+        "runtime": {
+          "Cheat.dll": {}
+        }
+      },
+      "System.CodeDom/8.0.0-preview.6.23329.7": {
+        "runtime": {
+          "lib/net7.0/System.CodeDom.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.32907"
+          }
+        }
+      },
+      "System.Management/8.0.0-preview.6.23329.7": {
+        "dependencies": {
+          "System.CodeDom": "8.0.0-preview.6.23329.7"
+        },
+        "runtime": {
+          "lib/net7.0/System.Management.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.32907"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.32907"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cheat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CodeDom/8.0.0-preview.6.23329.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EyRp2v+EirXaVKm3kU5SI/mVVj58B4BUY/5d+qf5DOqGIjrpIXyNs4+tB1wIi7odtj5OHLGTEqV1Odvd8ecWrQ==",
+      "path": "system.codedom/8.0.0-preview.6.23329.7",
+      "hashPath": "system.codedom.8.0.0-preview.6.23329.7.nupkg.sha512"
+    },
+    "System.Management/8.0.0-preview.6.23329.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fPs04/e2NUj3Fv0SwpQeRmRx+q7qd4Q2QjTI7ZT52B+7T5HukTtmHEcSWbfTckhy4mVcbolMOUNkvr7e+fA2EA==",
+      "path": "system.management/8.0.0-preview.6.23329.7",
+      "hashPath": "system.management.8.0.0-preview.6.23329.7.nupkg.sha512"
+    }
+  }
+}

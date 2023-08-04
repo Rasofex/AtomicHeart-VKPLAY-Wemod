@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\Cheat\\Cheat.csproj": {}
+    "G:\\Cheat\\Cheat.csproj": {}
   },
   "projects": {
-    "g:\\Cheat\\Cheat.csproj": {
+    "G:\\Cheat\\Cheat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\Cheat\\Cheat.csproj",
+        "projectUniqueName": "G:\\Cheat\\Cheat.csproj",
         "projectName": "Cheat",
-        "projectPath": "g:\\Cheat\\Cheat.csproj",
+        "projectPath": "G:\\Cheat\\Cheat.csproj",
         "packagesPath": "C:\\Users\\Alin0\\.nuget\\packages\\",
-        "outputPath": "g:\\Cheat\\obj\\",
+        "outputPath": "G:\\Cheat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alin0\\AppData\\Roaming\\NuGet\\NuGet.Config"
